@@ -1,0 +1,16 @@
+c:\users\slavi\documents\visual studio 2015\Projects\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\MainWindow.g.cs
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\App.g.cs
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG_MarkupCompile.cache
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG_MarkupCompile.lref
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\MainWindow.baml
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.g.resources
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.Cache
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\slavi\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\slavi\Documents\Visual Studio 2015\Projects\RPG\RPG\bin\Debug\Engine.dll
+C:\Users\slavi\Documents\Visual Studio 2015\Projects\RPG\RPG\bin\Debug\Engine.pdb
