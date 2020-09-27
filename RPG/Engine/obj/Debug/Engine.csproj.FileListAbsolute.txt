@@ -4,3 +4,9 @@ C:\Users\slavi\Documents\Visual Studio 2015\Projects\RPG\Engine\obj\Debug\Engine
 C:\Users\slavi\Documents\Visual Studio 2015\Projects\RPG\Engine\obj\Debug\Engine.dll
 C:\Users\slavi\Documents\Visual Studio 2015\Projects\RPG\Engine\obj\Debug\Engine.pdb
 C:\Users\slavi\Documents\Visual Studio 2015\Projects\RPG\Engine\obj\Debug\Engine.g.resources
+E:\Github Repos\RPG\Engine\bin\Debug\Engine.dll
+E:\Github Repos\RPG\Engine\bin\Debug\Engine.pdb
+E:\Github Repos\RPG\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+E:\Github Repos\RPG\Engine\obj\Debug\Engine.g.resources
+E:\Github Repos\RPG\Engine\obj\Debug\Engine.dll
+E:\Github Repos\RPG\Engine\obj\Debug\Engine.pdb
